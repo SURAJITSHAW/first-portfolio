@@ -218,3 +218,12 @@ a {
         display: none;
     }
 }
+
+.project-btns {
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+
